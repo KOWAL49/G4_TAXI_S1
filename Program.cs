@@ -5,7 +5,6 @@ using TAXI;
 using static System.Net.Mime.MediaTypeNames;
 using static taxi.baza;
 
-Console.WriteLine("KOWAL ads   ja");
 // var bazatest = new testbazyzneta();
 // bazatest.Main();
 
