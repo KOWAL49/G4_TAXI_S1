@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Nowy folder\TAXI\TAXI\bin\Debug\net6.0\TAXI.exe
+C:\Users\PC\Desktop\Nowy folder\TAXI\TAXI\bin\Debug\net6.0\TAXI.deps.json
+C:\Users\PC\Desktop\Nowy folder\TAXI\TAXI\bin\Debug\net6.0\TAXI.runtimeconfig.json
+C:\Users\PC\Desktop\Nowy folder\TAXI\TAXI\bin\Debug\net6.0\TAXI.dll
+C:\Users\PC\Desktop\Nowy folder\TAXI\TAXI\bin\Debug\net6.0\TAXI.pdb
+C:\Users\PC\Desktop\Nowy folder\TAXI\TAXI\obj\Debug\net6.0\TAXI.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Nowy folder\TAXI\TAXI\obj\Debug\net6.0\TAXI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Nowy folder\TAXI\TAXI\obj\Debug\net6.0\TAXI.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Nowy folder\TAXI\TAXI\obj\Debug\net6.0\TAXI.AssemblyInfo.cs
+C:\Users\PC\Desktop\Nowy folder\TAXI\TAXI\obj\Debug\net6.0\TAXI.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Nowy folder\TAXI\TAXI\obj\Debug\net6.0\TAXI.dll
+C:\Users\PC\Desktop\Nowy folder\TAXI\TAXI\obj\Debug\net6.0\refint\TAXI.dll
+C:\Users\PC\Desktop\Nowy folder\TAXI\TAXI\obj\Debug\net6.0\TAXI.pdb
+C:\Users\PC\Desktop\Nowy folder\TAXI\TAXI\obj\Debug\net6.0\TAXI.genruntimeconfig.cache
+C:\Users\PC\Desktop\Nowy folder\TAXI\TAXI\obj\Debug\net6.0\ref\TAXI.dll
